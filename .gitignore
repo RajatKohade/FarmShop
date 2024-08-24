@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore all files in the temp directory
+temp/
+
+# Ignore a specific file
+secrets.txt
+# Node.js
+node_modules/
+npm-debug.log
+
+# Windows
+Thumbs.db
